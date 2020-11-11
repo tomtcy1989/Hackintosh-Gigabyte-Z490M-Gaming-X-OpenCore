@@ -1,7 +1,7 @@
 # Hackintosh-Z490M-OpenCore
-# OpenCore 0.6.4 (Build date 3 Nov 2020) on Gigabyte Z490M Gaming X with i7-10700K and RX590.
+#### OpenCore 0.6.4 (Build date 3 Nov 2020) on Gigabyte Z490M Gaming X with i7-10700K and RX590.
 
-# Running latest Catalina and beta version Big Sur smoothly. Everything works - DRM (on Catalina only), Handsoff, AirDrop, iMessages, FaceTime, SideCar, USB ports mapped.
+#### Running latest Catalina and beta version Big Sur smoothly. Everything works - DRM (on Catalina only), Handsoff, AirDrop, iMessages, FaceTime, SideCar, USB ports mapped.
 
 ## Specs
 
