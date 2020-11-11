@@ -4,9 +4,11 @@
 #### My PC runs latest Catalina and beta version Big Sur using this EFI smoothly. 
 #### Everything works - DRM (on Catalina only), Handsoff, AirDrop, iMessages, FaceTime, SideCar and USB ports are mapped.
 
-### NOTES: If you have the same motherboard, all you need to do is to use ProperTree and add your own SMBIOS (I use iMac20,1 as per Dortania guide). You might need to remap the USB ports as we might have different case for the front USB ports.
+# Notes
 
-## Specs
+- If you have the same motherboard, all you need to do is to use ProperTree and add your own SMBIOS (I use iMac20,1 as per Dortania guide). You might need to remap the USB ports as we might have different case for the front USB ports.
+
+# Specs
 
 - CPU: i7-10700K (10th Gen) Comet Lake
 - GPU: Gigabyte GV-RX590GAMING-8GD
