@@ -6,16 +6,16 @@
 
 # Notes
 
-- If you have the same motherboard, all you need to do is to use ProperTree and add your own SMBIOS (I use iMac20,1 as per Dortania guide). You might need to remap the USB ports as we might have different case for the front USB ports.
+- If you have the same motherboard, all you need to do is to use ProperTree and add your own SMBIOS (I use iMac20,1 as per Dortania guide) in Config.plist. You might need to remap the USB ports as we might have different case for the front USB ports.
 
 # Specs
 
 - CPU: i7-10700K (10th Gen) Comet Lake
 - GPU: Gigabyte GV-RX590GAMING-8GD
-- RAM: 32GB DDR4 3200MHz
+- RAM: 32GB DDR4 3200MHz (G.SKill Ripjaws V)
 - Motherboard: Gigabyte Z490M Gaming X
 - Audio Codec: Realtek ALC1200
 - Ethernet Card: Intel I219V
 - Wifi/BT Card: Fevi T919
 - Touchpad and touch display devices: Magic TouchPad 2
-- BIOS revision: F5c (09 July 2020)
+- BIOS revision: F6b (03 Nov 2020)
