@@ -1,4 +1,4 @@
-# Hackintosh-Z490M-OpenCore
+# Hackintosh-Gigabyte-Z490M-Gaming-X-OpenCore
 ### OpenCore 0.6.4 (Build date 3 Nov 2020) on Gigabyte Z490M Gaming X with i7-10700K and RX590
 
 #### My PC runs latest Catalina and beta version Big Sur using this EFI smoothly. 
